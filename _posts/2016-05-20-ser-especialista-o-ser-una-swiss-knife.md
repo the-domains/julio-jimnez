@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Marketing digital, una frase por demás utilizada hoy en día y que poco a poco comienza a perder prestigio o valor frente a las marcas. Muchos (me incluyo) hemos ido creciendo de a poco en esta industria, algunos (como yo) comenzamos haciendo Community Management, algunos otros entraron desde áreas como Diseño Gráfico y algunos otros desde la parte de TI.'
-datePublished: '2016-05-20T17:36:13.186Z'
-dateModified: '2016-05-20T17:35:50.731Z'
+datePublished: '2016-05-20T17:38:03.844Z'
+dateModified: '2016-05-20T17:37:52.186Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-ser-especialista-o-ser-una-swiss-knife.md
