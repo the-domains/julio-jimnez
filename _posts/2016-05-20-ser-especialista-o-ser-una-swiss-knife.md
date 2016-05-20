@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Mi caso es extraño, comencé como Community Manager (CM) hace 5 años, después me especialicé como Digital Advertising Specialist para después volver al área de Social Media como Digital Manager en la empresa que actualmente trabajo, Mamut. El punto es, en Marketing Digital nunca sabes donde irás a parar a menos que te especialices en algún área muy específica.'
-datePublished: '2016-05-20T17:46:40.429Z'
-dateModified: '2016-05-20T17:42:38.496Z'
+datePublished: '2016-05-20T17:54:12.801Z'
+dateModified: '2016-05-20T17:54:01.926Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-ser-especialista-o-ser-una-swiss-knife.md
