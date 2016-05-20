@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Marketing digital, una frase por demás utilizada hoy en día y que poco a poco comienza a perder prestigio o valor frente a las marcas. Muchos (me incluyo) hemos ido creciendo de a poco en esta industria, algunos (como yo) comenzamos haciendo Community Management, algunos otros entraron desde áreas como Diseño Gráfico y algunos otros desde la parte de TI.'
-datePublished: '2016-05-20T17:25:27.081Z'
-dateModified: '2016-05-20T17:25:16.706Z'
-title: Ser especialista o ser una swiss knife.
+datePublished: '2016-05-20T17:27:30.485Z'
+dateModified: '2016-05-20T17:26:57.836Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-20-ser-especialista-o-ser-una-swiss-knife.md
 authors: []
@@ -17,9 +17,7 @@ url: ser-especialista-o-ser-una-swiss-knife/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5cdac05-7f12-4af8-8a65-2d13501c6704.jpg)
-
-# Ser especialista o ser una swiss knife.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc4ff1a-e120-4f4d-a06a-56910febeeb7.jpg)
 
 Marketing digital, una frase por demás utilizada hoy en día y que poco a poco comienza a perder prestigio o valor frente a las marcas. Muchos (me incluyo) hemos ido creciendo de a poco en esta industria, algunos (como yo) comenzamos haciendo Community Management, algunos otros entraron desde áreas como Diseño Gráfico y algunos otros desde la parte de TI.
 
