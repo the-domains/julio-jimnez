@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mangle Digital]]></title>
-        <description><![CDATA[Mangle Digital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Julio Jiménez]]></title>
+        <description><![CDATA[Julio Jiménez]]></description>
+        <link>https://thegrid.ai/julio-jimnez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 00:14:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 17:10:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/julio-jimnez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ser especialista o ser una swiss knife.]]></title>
+            <description><![CDATA[<article><h1>Ser especialista o ser una swiss knife.</h1><p>Marketing digital, una frase por demás utilizada hoy en día y que poco a poco comienza a perder prestigio o valor frente a las marcas. Muchos (me incluyo) hemos ido creciendo de a poco en esta industria, algunos (como yo) comenzamos haciendo Community Management, algunos otros entraron desde áreas como Diseño Gráfico y algunos otros desde la parte de TI.</p></article>]]></description>
+            <link>https://thegrid.ai/julio-jimnez/ser-especialista-o-ser-una-swiss-knife/index.html</link>
+            <guid isPermaLink="false">20296a68-9b77-496f-b2cd-e9a1a1b1d907</guid>
+            <pubDate>Fri, 20 May 2016 17:10:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[52 Things to Improve in the Office for a Successful 2016]]></title>
             <description><![CDATA[<article><h1>52 Things to Improve in the Office for a Successful 2016</h1><p>Do you want this year to be better? Did your New Year's resolutions include doing better at the office? Most of us focus on personal goals, but shouldn't we think about ways we can improve as managers and business owners? Here are 52 resolutions for the office in 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba674b5609505101c37f6e7353f5b152e88f9861.jpg"></article>]]></description>
