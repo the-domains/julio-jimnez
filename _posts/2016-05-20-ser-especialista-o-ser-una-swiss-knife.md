@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Mi caso es extraño, comencé como Community Manager (CM) hace 5 años, después me especialicé como Digital Advertising Specialist para después volver al área de Social Media como Digital Manager en la empresa que actualmente trabajo, Mamut. El punto es, en Marketing Digital nunca sabes donde irás a parar a menos que te especialices en algún área muy específica.'
-datePublished: '2016-05-21T05:51:09.592Z'
-dateModified: '2016-05-20T18:01:56.879Z'
-title: ''
+description: 'Hoy las agencias de digital marketing están siendo víctimas de un fenómeno que yo llamaría "The Swiss Knife fever", si, la enfermedad de la navaja suiza, ¿de qué se trata esta "enfermedad"? Básicamente están sufriendo al momento de contratar personas capaces de tomar responsabilidades clave en una agencia digital. '
+datePublished: '2016-05-21T06:03:29.264Z'
+dateModified: '2016-05-21T06:03:28.976Z'
+title: ¿Tienes lo que se necesita para ser una Swiss Knife?
 author: []
 sourcePath: _posts/2016-05-20-ser-especialista-o-ser-una-swiss-knife.md
 authors: []
@@ -19,13 +19,10 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc4ff1a-e120-4f4d-a06a-56910febeeb7.jpg)
 
-## Las ventajas de ser una Swiss Knife Vs ser un especialista
+## ¿Tienes lo que se necesita para ser una Swiss Knife?
 
-Marketing digital, una frase por demás utilizada hoy en día y que poco a poco comienza a perder prestigio o valor frente a las marcas. Muchos (me incluyo) hemos ido creciendo de a poco en esta industria, algunos (como yo) comenzamos haciendo Community Management, algunos otros entraron desde áreas como Diseño Gráfico y algunos otros desde la parte de TI.
+Hoy las agencias de digital marketing están siendo víctimas de un fenómeno que yo llamaría "The Swiss Knife fever", si, la enfermedad de la navaja suiza, ¿de qué se trata esta "enfermedad"? Básicamente están sufriendo al momento de contratar personas capaces de tomar responsabilidades clave en una agencia digital. 
 
-Mi caso es extraño, comencé como Community [][0]Manager (CM) hace 5 años, después me especialicé como Digital Advertising Specialist para después volver al área de Social Media como Digital Manager en la empresa que actualmente trabajo, Mamut. El punto es, en Marketing Digital nunca sabes donde irás a parar a menos que te especialices en algún área muy específica.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4ccea9f-b38b-4adb-b5d9-a021fdb19b82.jpg)
+¿Cómo identifico a una persona con "The Swiss Knife Fever"? No es tarea fácil; en la entrevista que le hiciste a esa persona que llegó con 5 años de experiencia en digital marketing, mencionará que sabe de todo, si, de todo. Expertos en Social Media, Digital Advertising, Web Analysis, Data Collection, Graphic Design, etc. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4ccea9f-b38b-4adb-b5d9-a021fdb19b82.jpg)
 
-¿Me especializo o no me especializo? 
-
-[0]: null
+¿Me especializo o no me especializo?
